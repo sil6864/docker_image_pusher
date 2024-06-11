@@ -2,5 +2,4 @@ metatube/metatube-server
 iyuucn/iyuuplus-dev
 qdtoday/qd
 vinlic/kimi-free-api
-hslr/sun-pane:latest
 hslr/sun-panel:1.5.0-beta24-05-10
