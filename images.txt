@@ -9,3 +9,4 @@ gdy666/lucky
 6053537/portainer
 Nyanmisaka/jellyfin
 donknap/dpanel
+jrohy/webssh
