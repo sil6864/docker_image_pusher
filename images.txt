@@ -7,6 +7,6 @@ hsuyelin/nas-tools
 jellyfin/jellyfin
 gdy666/lucky
 6053537/portainer
-Nyanmisaka/jellyfin
+nyanmisaka/jellyfin
 donknap/dpanel
 jrohy/webssh
