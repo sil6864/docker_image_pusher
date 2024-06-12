@@ -10,4 +10,4 @@ gdy666/lucky
 miniflux/miniflux
 donknap/dpanel
 jrohy/webssh
-logicjake/webmonitor
+mzz2017/v2raya
