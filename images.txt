@@ -10,4 +10,5 @@ gdy666/lucky
 miniflux/miniflux
 donknap/dpanel
 jrohy/webssh
-mzz2017/v2raya
+fs185085781/webos
+vinlic/qwen-free-api
