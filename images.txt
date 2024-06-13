@@ -2,7 +2,7 @@ metatube/metatube-server
 iyuucn/iyuuplus-dev
 qdtoday/qd
 vinlic/kimi-free-api
-hslr/sun-panel
+hslr/sun-panel:1.5.0-beta24-05-10
 hsuyelin/nas-tools
 jellyfin/jellyfin:10.8.3
 gdy666/lucky
