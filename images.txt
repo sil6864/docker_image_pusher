@@ -12,3 +12,4 @@ donknap/dpanel
 jrohy/webssh
 fs185085781/webos
 vinlic/qwen-free-api
+metatube/metatube-server
