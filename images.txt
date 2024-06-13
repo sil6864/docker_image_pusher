@@ -13,4 +13,4 @@ jrohy/webssh
 fs185085781/webos
 vinlic/qwen-free-api
 metatube/metatube-server
-kasmweb/firefox
+kasmweb/firefox:1.15.0-rolling
