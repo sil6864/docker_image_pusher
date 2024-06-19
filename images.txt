@@ -14,3 +14,5 @@ fs185085781/webos
 vinlic/qwen-free-api
 metatube/metatube-server
 kasmweb/firefox:1.15.0-rolling
+nevinee/qbittorrent
+Xhofe/alist
