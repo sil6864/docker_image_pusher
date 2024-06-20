@@ -16,3 +16,4 @@ metatube/metatube-server
 nevinee/qbittorrent
 xhofe/alist
 gotify/server
+vaultwarden/server
