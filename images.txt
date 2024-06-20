@@ -15,5 +15,4 @@ vinlic/qwen-free-api
 metatube/metatube-server
 nevinee/qbittorrent
 xhofe/alist
-gotify/server
 vaultwarden/server
