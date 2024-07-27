@@ -2,10 +2,10 @@ qdtoday/qd
 vinlic/kimi-free-api
 hslr/sun-panel:1.4.0
 hsuyelin/nas-tools
-jellyfin/jellyfin:10.4.3
 gdy666/lucky
 6053537/portainer-ce:2.19.5
 donknap/dpanel
 metatube/metatube-server
 nevinee/qbittorrent
 xhofe/alist
+nyanmisaka/jellyfin
