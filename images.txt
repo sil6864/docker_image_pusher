@@ -9,4 +9,4 @@ metatube/metatube-server
 nevinee/qbittorrent
 xhofe/alist
 nyanmisaka/jellyfin
-hubdqzboy/mirror-hub:latest
+hubdqzboy/mirror-hub
