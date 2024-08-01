@@ -10,3 +10,4 @@ nevinee/qbittorrent
 xhofe/alist
 nyanmisaka/jellyfin
 hubdqzboy/mirror-hub
+fruitbars/simple-one-api
