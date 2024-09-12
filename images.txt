@@ -4,5 +4,6 @@ hslr/sun-panel:1.4.0
 metatube/metatube-server
 nevinee/qbittorrent
 nyanmisaka/jellyfin:240401-amd64
-docker.io/hubdqzboy/mirror-hub
-
+hubdqzboy/mirror-hubDocker
+zhayujie/chatgpt-on-wechat:1.7.0
+yidadaa/chatgpt-next-web:v2.15.0
