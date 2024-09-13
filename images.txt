@@ -6,4 +6,3 @@ nevinee/qbittorrent
 nyanmisaka/jellyfin:240401-amd64
 hubdqzboy/mirror-hubDocker
 zhayujie/chatgpt-on-wechat:1.7.0
-yidadaa/chatgpt-next-web:v2.15.0
