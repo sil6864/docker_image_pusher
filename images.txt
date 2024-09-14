@@ -3,6 +3,6 @@ hslr/sun-panel:1.4.0
 6053537/portainer-ce:2.19.5
 metatube/metatube-server
 nevinee/qbittorrent
-nyanmisaka/jellyfin:231129-amd64
+nyanmisaka/jellyfin:240401-amd64
 yidadaa/chatgpt-next-web:v2.15.0
 zhayujie/chatgpt-on-wechat:1.7.0
