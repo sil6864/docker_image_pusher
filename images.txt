@@ -7,3 +7,4 @@ nyanmisaka/jellyfin:241119-amd64
 yidadaa/chatgpt-next-web:v2.15.0
 youshandefeiyang/allinone:latest
 jxxghp/moviepilot-v2:latest
+docker pull homeassistant/home-assistant:stable
