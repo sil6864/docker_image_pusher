@@ -6,3 +6,4 @@ yidadaa/chatgpt-next-web:v2.15.0
 youshandefeiyang/allinone:latest
 jxxghp/moviepilot-v2:latest
 homeassistant/home-assistant:stable
+gdy666/lucky:2.11.2
