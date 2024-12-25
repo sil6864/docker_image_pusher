@@ -1,0 +1,1 @@
+registry.cn-hangzhou.aliyuncs.com/sil6864/sun-panel:1.4.0
