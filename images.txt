@@ -15,4 +15,6 @@ yidadaa/chatgpt-next-web:v2.15.0
 --platform=linux/arm64 youshandefeiyang/allinone:latest
 jxxghp/moviepilot-v2:latest
 homeassistant/home-assistant:stable
-fruitbars/simple-one-api:latest
+--platform=linux/arm/v7 fruitbars/simple-one-api:latest
+--platform=linux/amd64 fruitbars/simple-one-api:latest
+--platform=linux/arm64 fruitbars/simple-one-api:latest
