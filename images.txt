@@ -9,12 +9,8 @@ hslr/sun-panel:1.4.0
 6053537/portainer-ce:2.19.5
 #nyanmisaka/jellyfin:241119-amd64
 nyanmisaka/jellyfin:latest
-yidadaa/chatgpt-next-web:v2.15.0
---platform=linux/arm/v7 youshandefeiyang/allinone:latest
---platform=linux/amd64 youshandefeiyang/allinone:latest
---platform=linux/arm64 youshandefeiyang/allinone:latest
+yidadaa/chatgpt-next-web
+youshandefeiyang/allinone:latest
 jxxghp/moviepilot-v2:latest
 homeassistant/home-assistant:stable
---platform=linux/arm/v7 fruitbars/simple-one-api:latest
---platform=linux/amd64 fruitbars/simple-one-api:latest
---platform=linux/arm64 fruitbars/simple-one-api:latest
+fruitbars/simple-one-api:latest
