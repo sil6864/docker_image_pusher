@@ -10,7 +10,9 @@ hslr/sun-panel:1.4.0
 #nyanmisaka/jellyfin:241119-amd64
 nyanmisaka/jellyfin:latest
 yidadaa/chatgpt-next-web
-youshandefeiyang/allinone:latest
 jxxghp/moviepilot-v2:latest
 homeassistant/home-assistant:stable
 fruitbars/simple-one-api:latest
+--platform=linux/arm64/v8 youshandefeiyang/allinone:latest
+--platform=linux/amd64 youshandefeiyang/allinone:latest
+--platform=linux/arm/v7 youshandefeiyang/allinone:latest
