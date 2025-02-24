@@ -17,7 +17,7 @@ fruitbars/simple-one-api:latest
 --platform=linux/amd64 youshandefeiyang/allinone:latest
 --platform=linux/arm/v7 youshandefeiyang/allinone:latest
 ui4freedom/uif:latest
-ffdfgdfg/npc:latest
+snowdreamtech/frps:0.46.0
 nriver/trilium-cn:latest
 linuxserver/transmission:4.0.6
 dpanel/dpanel:lite
