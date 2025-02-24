@@ -16,3 +16,15 @@ fruitbars/simple-one-api:latest
 --platform=linux/arm64/v8 youshandefeiyang/allinone:latest
 --platform=linux/amd64 youshandefeiyang/allinone:latest
 --platform=linux/arm/v7 youshandefeiyang/allinone:latest
+ui4freedom/uif:latest
+ffdfgdfg/npc:latest
+nriver/trilium-cn:latest
+linuxserver/transmission:4.0.6
+dpanel/dpanel:lite
+metatube/metatube-server:latest
+privoce/vocechat-server:latest
+ellermister/mtproxy:latest
+homeassistant/home-assistant:dev
+louislam/uptime-kuma:latest
+jonnyan404/verysync:latest
+easychen/cookiecloud:latest
