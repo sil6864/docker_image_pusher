@@ -4,27 +4,76 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-qdtoday/qd:latest
-hslr/sun-panel:1.4.0
-6053537/portainer-ce:2.19.5
-#nyanmisaka/jellyfin:241119-amd64
-nyanmisaka/jellyfin:latest
-yidadaa/chatgpt-next-web
-jxxghp/moviepilot-v2:latest
-homeassistant/home-assistant:stable
-fruitbars/simple-one-api:latest
+
+--platform=linux/arm64 qdtoday/qd:latest
+--platform=linux/amd64 qdtoday/qd:latest
+--platform=linux/arm/v7 qdtoday/qd:latest
+
+--platform=linux/arm64 hslr/sun-panel:1.4.0
+--platform=linux/amd64 hslr/sun-panel:1.4.0
+--platform=linux/arm/v7 hslr/sun-panel:1.4.0
+
+--platform=linux/arm64 6053537/portainer-ce:2.19.5
+--platform=linux/amd64 6053537/portainer-ce:2.19.5
+--platform=linux/arm/v7 6053537/portainer-ce:2.19.5
+
+--platform=linux/arm64/v8 nyanmisaka/jellyfin:latest-rockchip
+--platform=linux/amd64 nyanmisaka/jellyfin:latest
+
+--platform=linux/arm64 yidadaa/chatgpt-next-web:latest
+--platform=linux/amd64 yidadaa/chatgpt-next-web:latest
+
+--platform=linux/arm64 jxxghp/moviepilot-v2:latest
+--platform=linux/amd64 jxxghp/moviepilot-v2:latest
+
+--platform=linux/arm64 homeassistant/home-assistant:latest
+--platform=linux/amd64 homeassistant/home-assistant:latest
+--platform=linux/arm/v6 homeassistant/home-assistant:latest
+--platform=linux/arm/v7 homeassistant/home-assistant:latest
+
+--platform=linux/arm64 fruitbars/simple-one-api:latest
+--platform=linux/amd64 fruitbars/simple-one-api:latest
+--platform=linux/arm/v7 fruitbars/simple-one-api:latest
+
 --platform=linux/arm64/v8 youshandefeiyang/allinone:latest
 --platform=linux/amd64 youshandefeiyang/allinone:latest
 --platform=linux/arm/v7 youshandefeiyang/allinone:latest
-ui4freedom/uif:latest
-snowdreamtech/frps:0.46.0
-nriver/trilium-cn:latest
-linuxserver/transmission:4.0.6
-dpanel/dpanel:lite
+
+--platform=linux/arm64 ui4freedom/uif:latest
+--platform=linux/amd64 ui4freedom/uif:latest
+--platform=linux/arm/v7 ui4freedom/uif:latest
+
+--platform=linux/arm64 ui4freedom/uif:latest
+--platform=linux/amd64 ui4freedom/uif:latest
+--platform=linux/arm/v7 ui4freedom/uif:latest
+
+--platform=linux/arm64 snowdreamtech/frps:0.46.0
+--platform=linux/amd64 snowdreamtech/frps:0.46.0
+--platform=linux/arm/v7 snowdreamtech/frps:0.46.0
+
+--platform=linux/arm64 linuxserver/transmission:4.0.6
+--platform=linux/amd64 linuxserver/transmission:4.0.6
+
+--platform=linux/arm64 dpanel/dpanel:latest
+--platform=linux/amd64 dpanel/dpanel:latest
+--platform=linux/arm/v7 dpanel/dpanel:latest
+
+--platform=linux/arm64 louislam/uptime-kuma:latest
+--platform=linux/amd64 louislam/uptime-kuma:latest
+--platform=linux/arm/v7 louislam/uptime-kuma:latest
+
+--platform=linux/arm64 jonnyan404/verysync:latest
+--platform=linux/amd64 jonnyan404/verysync:latest
+--platform=linux/arm/v7 jonnyan404/verysync:latest
+
+--platform=linux/arm64 easychen/cookiecloud:latest
+--platform=linux/amd64 easychen/cookiecloud:latest
+--platform=linux/arm/v7 easychen/cookiecloud:latest
+
+
 metatube/metatube-server:latest
 privoce/vocechat-server:latest
 ellermister/mtproxy:latest
-homeassistant/home-assistant:dev
-louislam/uptime-kuma:latest
-jonnyan404/verysync:latest
-easychen/cookiecloud:latest
+
+
+
