@@ -31,6 +31,11 @@
 --platform=linux/arm/v6 homeassistant/home-assistant:latest
 --platform=linux/arm/v7 homeassistant/home-assistant:latest
 
+--platform=linux/arm64 nriver/trilium-cn:latest
+--platform=linux/amd64 nriver/trilium-cn:latest
+--platform=linux/arm/v6 nriver/trilium-cn:latest
+--platform=linux/arm/v7 nriver/trilium-cn:latest
+
 --platform=linux/arm64 fruitbars/simple-one-api:latest
 --platform=linux/amd64 fruitbars/simple-one-api:latest
 --platform=linux/arm/v7 fruitbars/simple-one-api:latest
