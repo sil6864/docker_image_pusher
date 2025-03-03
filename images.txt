@@ -36,10 +36,6 @@
 --platform=linux/arm/v6 nriver/trilium-cn:latest
 --platform=linux/arm/v7 nriver/trilium-cn:latest
 
---platform=linux/arm64 fruitbars/simple-one-api:latest
---platform=linux/amd64 fruitbars/simple-one-api:latest
---platform=linux/arm/v7 fruitbars/simple-one-api:latest
-
 --platform=linux/arm64/v8 youshandefeiyang/allinone:latest
 --platform=linux/amd64 youshandefeiyang/allinone:latest
 --platform=linux/arm/v7 youshandefeiyang/allinone:latest
