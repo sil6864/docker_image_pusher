@@ -66,6 +66,10 @@
 --platform=linux/arm64 dullage/flatnotes:latest
 --platform=linux/amd64 dullage/flatnotes:latest
 
+--platform=linux/arm/v7 xhofe/alist:latest
+--platform=linux/arm64/v8 xhofe/alist:latest
+--platform=linux/amd64 xhofe/alist:latest
+
 metatube/metatube-server:latest
 privoce/vocechat-server:latest
 ellermister/mtproxy:latest
