@@ -43,8 +43,8 @@
 --platform=linux/amd64 snowdreamtech/frps:0.46.0
 --platform=linux/arm/v7 snowdreamtech/frps:0.46.0
 
---platform=linux/arm64 linuxserver/transmission:4.0.6
---platform=linux/amd64 linuxserver/transmission:4.0.6
+--platform=linux/arm64 linuxserver/transmission::latest
+--platform=linux/amd64 linuxserver/transmission::latest
 
 --platform=linux/arm64 dpanel/dpanel:latest
 --platform=linux/amd64 dpanel/dpanel:latest
