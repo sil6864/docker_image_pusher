@@ -17,7 +17,7 @@
 --platform=linux/amd64 6053537/portainer-ce:2.19.5
 --platform=linux/arm/v7 6053537/portainer-ce:2.19.5
 
---platform=linux/arm64/v8 nyanmisaka/jellyfin::241119-arm64
+--platform=linux/arm64/v8 nyanmisaka/jellyfin:241119-arm64
 --platform=linux/amd64 nyanmisaka/jellyfin:241119-amd64
 
 
@@ -44,8 +44,8 @@
 --platform=linux/amd64 snowdreamtech/frps:0.46.0
 --platform=linux/arm/v7 snowdreamtech/frps:0.46.0
 
---platform=linux/arm64 linuxserver/transmission::latest
---platform=linux/amd64 linuxserver/transmission::latest
+--platform=linux/arm64 linuxserver/transmission:latest
+--platform=linux/amd64 linuxserver/transmission:latest
 
 --platform=linux/arm64 dpanel/dpanel:latest
 --platform=linux/amd64 dpanel/dpanel:latest
@@ -63,6 +63,8 @@
 --platform=linux/amd64 easychen/cookiecloud:latest
 --platform=linux/arm/v7 easychen/cookiecloud:latest
 
+--platform=linux/arm64 dullage/flatnotes:latest
+--platform=linux/amd64 dullage/flatnotes:latest
 
 metatube/metatube-server:latest
 privoce/vocechat-server:latest
