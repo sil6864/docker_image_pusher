@@ -24,8 +24,8 @@
 --platform=linux/arm64 yidadaa/chatgpt-next-web:latest
 --platform=linux/amd64 yidadaa/chatgpt-next-web:latest
 
---platform=linux/arm64 jxxghp/moviepilot-v2:latest
---platform=linux/amd64 jxxghp/moviepilot-v2:latest
+--platform=linux/arm64 jxxghp/moviepilot-v2:2.3.0
+--platform=linux/amd64 jxxghp/moviepilot-v2:2.3.0
 
 --platform=linux/arm64 homeassistant/home-assistant:latest
 --platform=linux/amd64 homeassistant/home-assistant:latest
