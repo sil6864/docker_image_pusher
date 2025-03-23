@@ -17,9 +17,8 @@
 --platform=linux/amd64 6053537/portainer-ce:2.19.5
 --platform=linux/arm/v7 6053537/portainer-ce:2.19.5
 
---platform=linux/arm64/v8 nyanmisaka/jellyfin:241119-arm64
---platform=linux/amd64 nyanmisaka/jellyfin:241119-amd64
-
+--platform=linux/arm64/v8 nyanmisaka/jellyfin:250127-arm64
+--platform=linux/amd64 nyanmisaka/jellyfin:250127-arm64
 
 --platform=linux/arm64 yidadaa/chatgpt-next-web:latest
 --platform=linux/amd64 yidadaa/chatgpt-next-web:latest
