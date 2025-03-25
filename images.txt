@@ -75,6 +75,12 @@
 --platform=linux/arm64 sil6864/dangbei:latest
 --platform=linux/amd64 sil6864/dangbei:latest
 
+--platform=linux/arm/v7 zmisgod/iptvchecker:latest
+--platform=linux/arm64 zmisgod/iptvchecker:latest
+--platform=linux/amd64 zmisgod/iptvchecker:latest
+
+
+
 privoce/vocechat-server:latest
 ellermister/mtproxy:latest
 
