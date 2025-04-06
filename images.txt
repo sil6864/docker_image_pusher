@@ -43,6 +43,11 @@
 --platform=linux/amd64 snowdreamtech/frps:0.46.0
 --platform=linux/arm/v7 snowdreamtech/frps:0.46.0
 
+--platform=linux/arm64 stilleshan/frpc:0.58.1
+--platform=linux/amd64 stilleshan/frpc:0.58.1
+--platform=linux/arm/v7 stilleshan/frpc:0.58.1
+
+
 --platform=linux/arm64 linuxserver/transmission:latest
 --platform=linux/amd64 linuxserver/transmission:latest
 
