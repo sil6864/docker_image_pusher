@@ -84,6 +84,8 @@
 --platform=linux/arm64 zmisgod/iptvchecker:latest
 --platform=linux/amd64 zmisgod/iptvchecker:latest
 
+--platform=linux/arm64 vinlic/qwen-free-api:latest
+--platform=linux/amd64 vinlic/qwen-free-api:latest
 
 
 privoce/vocechat-server:latest
