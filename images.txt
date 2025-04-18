@@ -92,6 +92,10 @@
 --platform=linux/amd64 vinlic/qwen-free-api:latest
 
 
+--platform=linux/arm64 sil6864/easytier-wuhanr3s
+--platform=linux/arm64 sil6864/easytier-jjcr3s
+--platform=linux/amd64 sil6864/easytier-ubuntu
+
 privoce/vocechat-server:latest
 ellermister/mtproxy:latest
 
