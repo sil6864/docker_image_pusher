@@ -98,6 +98,6 @@
 
 privoce/vocechat-server:latest
 ellermister/mtproxy:latest
-
+ghcr.io/rickcert/api-check:latest
 
 
