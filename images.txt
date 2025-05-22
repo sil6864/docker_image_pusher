@@ -31,6 +31,13 @@
 --platform=linux/arm64 vinlic/qwen-free-api:latest
 --platform=linux/amd64 vinlic/qwen-free-api:latest
 
+--platform=linux/arm64 homeassistant/home-assistant:latest
+#--platform=linux/amd64 homeassistant/home-assistant:latest
+#--platform=linux/arm/v6 homeassistant/home-assistant:latest
+#--platform=linux/arm/v7 homeassistant/home-assistant:latest
+
+--platform=linux/arm64 sil6864/accelerator:latest
+
 dqzboy/mirror-hub:latest
 
 
@@ -54,11 +61,6 @@ dqzboy/mirror-hub:latest
 
 #--platform=linux/arm64 yidadaa/chatgpt-next-web:latest
 #--platform=linux/amd64 yidadaa/chatgpt-next-web:latest
-
-#--platform=linux/arm64 homeassistant/home-assistant:latest
-#--platform=linux/amd64 homeassistant/home-assistant:latest
-#--platform=linux/arm/v6 homeassistant/home-assistant:latest
-#--platform=linux/arm/v7 homeassistant/home-assistant:latest
 
 #--platform=linux/arm64 snowdreamtech/frps:0.46.0
 #--platform=linux/amd64 snowdreamtech/frps:0.46.0
