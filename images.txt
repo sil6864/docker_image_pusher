@@ -38,6 +38,8 @@
 
 --platform=linux/arm64 sil6864/accelerator:latest
 
+--platform=linux/arm64 rustdesk/rustdesk-server:latest
+
 dqzboy/mirror-hub:latest
 
 
