@@ -17,6 +17,7 @@
 --platform=linux/amd64 youshandefeiyang/allinone:latest
 #--platform=linux/arm/v7 youshandefeiyang/allinone:latest
 
+
 --platform=linux/arm64 ui4freedom/uif:latest
 --platform=linux/amd64 ui4freedom/uif:latest
 --platform=linux/arm/v7 ui4freedom/uif:latest
