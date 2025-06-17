@@ -2,6 +2,9 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
+
+--platform=linux/amd64 2011820123/tvbox:latest
+
 --platform=linux/arm64 sil6864/dnstest:latest
 
 --platform=linux/arm64 openlistteam/openlist:beta-aria2
