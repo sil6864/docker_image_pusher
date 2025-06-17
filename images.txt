@@ -2,7 +2,9 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
---platform=linux/arm64 sil6864/dnstest:latest        
+--platform=linux/arm64 sil6864/dnstest:latest
+
+--platform=linux/arm64 openlistteam/openlist:beta-aria2
 
 --platform=linux/arm64 6053537/portainer-ce:2.19.5
 --platform=linux/amd64 6053537/portainer-ce:2.19.5
@@ -40,12 +42,7 @@
 
 --platform=linux/arm64 sil6864/accelerator:latest
 
---platform=linux/arm64 rustdesk/rustdesk-server:latest
-
 dqzboy/mirror-hub:latest
-
-
-
 
 #--platform=linux/arm64 sil6864/easytier-wuhanr3s
 #--platform=linux/arm64 sil6864/easytier-jjcr3s
@@ -89,9 +86,9 @@ dqzboy/mirror-hub:latest
 #--platform=linux/arm64 dullage/flatnotes:latest
 #--platform=linux/amd64 dullage/flatnotes:latest
 
---platform=linux/arm/v7 ykxvk8yl5l/alist:latest
---platform=linux/arm64/v8 ykxvk8yl5l/alist:latest
---platform=linux/amd64 ykxvk8yl5l/alist:latest
+#--platform=linux/arm/v7 ykxvk8yl5l/alist:latest
+#--platform=linux/arm64/v8 ykxvk8yl5l/alist:latest
+#--platform=linux/amd64 ykxvk8yl5l/alist:latest
 
 #--platform=linux/arm64 sil6864/zuqiu:latest
 #--platform=linux/amd64 sil6864/zuqiu:latest
