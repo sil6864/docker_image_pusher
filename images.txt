@@ -6,6 +6,10 @@
 
 --platform=linux/arm64 openlistteam/openlist:beta-aria2
 
+--platform=linux/arm64 vinlic/jimeng-free-api:latest
+
+--platform=linux/arm64 vinlic/step-free-api:latest
+
 --platform=linux/arm64 6053537/portainer-ce:2.19.5
 --platform=linux/amd64 6053537/portainer-ce:2.19.5
 #--platform=linux/arm/v7 6053537/portainer-ce:2.19.5
