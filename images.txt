@@ -2,14 +2,13 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
-
---platform=linux/amd64 2011820123/tvbox:latest
-
---platform=linux/arm64 sil6864/dnstest:latest
+--platform=linux/arm64 sil6864/6864mail:v0.2
+--platform=linux/amd64 sil6864/6864mail:v0.2
 
 --platform=linux/arm64 openlistteam/openlist:beta-aria2
+--platform=linux/amd64 openlistteam/openlist:beta-aria2
 
---platform=linux/arm64 vinlic/jimeng-free-api:latest
+--platform=linux/arm64 sil6864/dnstest:latest
 
 --platform=linux/arm64 vinlic/step-free-api:latest
 
@@ -34,7 +33,7 @@
 
 --platform=linux/arm64 stilleshan/frpc:0.58.1
 --platform=linux/amd64 stilleshan/frpc:0.58.1
---platform=linux/arm/v7 stilleshan/frpc:0.58.1
+#--platform=linux/arm/v7 stilleshan/frpc:0.58.1
 
 --platform=linux/arm64 linuxserver/transmission:latest
 --platform=linux/amd64 linuxserver/transmission:latest
