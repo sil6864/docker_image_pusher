@@ -2,8 +2,8 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
---platform=linux/arm64 sil6864/6864mail:v0.2
---platform=linux/amd64 sil6864/6864mail:v0.2
+--platform=linux/arm64 sil6864/6864mail-trans:v0.2
+--platform=linux/amd64 sil6864/6864mail-trans:v0.2
 
 --platform=linux/arm64 openlistteam/openlist:latest
 --platform=linux/amd64 openlistteam/openlist:latest
