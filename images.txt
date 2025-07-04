@@ -2,15 +2,17 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
---platform=linux/arm64 sil6864/6864mail-trans:v0.2
---platform=linux/amd64 sil6864/6864mail-trans:v0.2
+#常用必备
+--platform=linux/arm64 linuxserver/transmission:latest
+--platform=linux/amd64 linuxserver/transmission:latest
 
 --platform=linux/arm64 openlistteam/openlist:latest
 --platform=linux/amd64 openlistteam/openlist:latest
 
-#--platform=linux/arm64 sil6864/dnstest:latest
-
 --platform=linux/arm64 vinlic/step-free-api:latest
+--platform=linux/amd64 vinlic/step-free-api:latest
+
+--platform=linux/arm64 sil6864/accelerator:latest
 
 --platform=linux/arm64 6053537/portainer-ce:latest
 --platform=linux/amd64 6053537/portainer-ce:latest
@@ -26,17 +28,24 @@
 --platform=linux/amd64 youshandefeiyang/allinone:latest
 #--platform=linux/arm/v7 youshandefeiyang/allinone:latest
 
+--platform=linux/arm64 stilleshan/frpc:0.58.1
+--platform=linux/amd64 stilleshan/frpc:0.58.1
 
+#其他镜像
+--platform=linux/arm64 sil6864/6864mail-trans:v0.2
+--platform=linux/amd64 sil6864/6864mail-trans:v0.2
+
+
+
+
+
+
+#暂存镜像
 #--platform=linux/arm64 ui4freedom/uif:latest
 #--platform=linux/amd64 ui4freedom/uif:latest
 #--platform=linux/arm/v7 ui4freedom/uif:latest
 
---platform=linux/arm64 stilleshan/frpc:0.58.1
---platform=linux/amd64 stilleshan/frpc:0.58.1
 #--platform=linux/arm/v7 stilleshan/frpc:0.58.1
-
---platform=linux/arm64 linuxserver/transmission:latest
---platform=linux/amd64 linuxserver/transmission:latest
 
 #--platform=linux/arm64 vinlic/qwen-free-api:latest
 #--platform=linux/amd64 vinlic/qwen-free-api:latest
@@ -46,9 +55,7 @@
 #--platform=linux/arm/v6 homeassistant/home-assistant:latest
 #--platform=linux/arm/v7 homeassistant/home-assistant:latest
 
---platform=linux/arm64 sil6864/accelerator:latest
-
-dqzboy/mirror-hub:latest
+#dqzboy/mirror-hub:latest
 
 #--platform=linux/arm64 sil6864/easytier-wuhanr3s
 #--platform=linux/arm64 sil6864/easytier-jjcr3s
