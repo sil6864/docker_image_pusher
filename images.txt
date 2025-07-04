@@ -8,7 +8,7 @@
 --platform=linux/arm64 openlistteam/openlist:latest
 --platform=linux/amd64 openlistteam/openlist:latest
 
---platform=linux/arm64 sil6864/dnstest:latest
+#--platform=linux/arm64 sil6864/dnstest:latest
 
 --platform=linux/arm64 vinlic/step-free-api:latest
 
@@ -38,10 +38,10 @@
 --platform=linux/arm64 linuxserver/transmission:latest
 --platform=linux/amd64 linuxserver/transmission:latest
 
---platform=linux/arm64 vinlic/qwen-free-api:latest
---platform=linux/amd64 vinlic/qwen-free-api:latest
+#--platform=linux/arm64 vinlic/qwen-free-api:latest
+#--platform=linux/amd64 vinlic/qwen-free-api:latest
 
---platform=linux/arm64 homeassistant/home-assistant:latest
+#--platform=linux/arm64 homeassistant/home-assistant:latest
 #--platform=linux/amd64 homeassistant/home-assistant:latest
 #--platform=linux/arm/v6 homeassistant/home-assistant:latest
 #--platform=linux/arm/v7 homeassistant/home-assistant:latest
