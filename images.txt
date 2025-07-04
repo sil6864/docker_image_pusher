@@ -5,8 +5,8 @@
 --platform=linux/arm64 sil6864/6864mail:v0.2
 --platform=linux/amd64 sil6864/6864mail:v0.2
 
---platform=linux/arm64 openlistteam/openlist:beta-aria2
---platform=linux/amd64 openlistteam/openlist:beta-aria2
+--platform=linux/arm64 openlistteam/openlist:latest
+--platform=linux/amd64 openlistteam/openlist:latest
 
 --platform=linux/arm64 sil6864/dnstest:latest
 
