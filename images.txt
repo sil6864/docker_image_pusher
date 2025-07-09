@@ -35,8 +35,8 @@
 --platform=linux/arm64 sil6864/6864mail-trans:v0.2
 --platform=linux/amd64 sil6864/6864mail-trans:v0.2
 
-
-
+--platform=linux/arm64 louislam/uptime-kuma:latest
+--platform=linux/amd64 louislam/uptime-kuma:latest
 
 
 
@@ -83,10 +83,6 @@
 #--platform=linux/arm64 dpanel/dpanel:latest
 #--platform=linux/amd64 dpanel/dpanel:latest
 #--platform=linux/arm/v7 dpanel/dpanel:latest
-
-#--platform=linux/arm64 louislam/uptime-kuma:latest
-#--platform=linux/amd64 louislam/uptime-kuma:latest
-#--platform=linux/arm/v7 louislam/uptime-kuma:latest
 
 #--platform=linux/arm64 jonnyan404/verysync:latest
 #--platform=linux/amd64 jonnyan404/verysync:latest
