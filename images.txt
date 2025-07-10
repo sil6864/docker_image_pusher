@@ -35,9 +35,8 @@
 --platform=linux/arm64 sil6864/6864mail-trans:v0.2
 --platform=linux/amd64 sil6864/6864mail-trans:v0.2
 
---platform=linux/arm64 louislam/uptime-kuma:latest
---platform=linux/amd64 louislam/uptime-kuma:latest
-
+--platform=linux/arm64 louislam/uptime-kuma:2.0.0-beta-slim.3
+--platform=linux/amd64 louislam/uptime-kuma:2.0.0-beta-slim.3
 
 
 #暂存镜像
