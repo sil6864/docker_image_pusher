@@ -38,6 +38,9 @@
 --platform=linux/arm64 louislam/uptime-kuma:2.0.0-beta-slim.3
 --platform=linux/amd64 louislam/uptime-kuma:2.0.0-beta-slim.3
 
+#github镜像
+ghcr.io/sil6864/ping-reporter:v1
+
 
 #暂存镜像
 #--platform=linux/arm64 ui4freedom/uif:latest
