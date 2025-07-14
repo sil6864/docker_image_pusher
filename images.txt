@@ -32,6 +32,13 @@
 --platform=linux/amd64 stilleshan/frpc:0.58.1
 
 #其他镜像
+--platform=linux/arm64 zimpel1/tv-host:latest
+--platform=linux/amd64 zimpel1/tv-host:latest
+
+--platform=linux/arm64 ghcr.io/senshinya/moontv:latest
+--platform=linux/amd64 ghcr.io/senshinya/moontv:latest
+
+
 #--platform=linux/arm64 sil6864/6864mail-trans:v0.2
 #--platform=linux/amd64 sil6864/6864mail-trans:v0.2
 
