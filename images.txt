@@ -17,8 +17,8 @@
 --platform=linux/arm64 6053537/portainer-ce:latest
 --platform=linux/amd64 6053537/portainer-ce:latest
 
---platform=linux/arm64 jxxghp/moviepilot-v2:latest
---platform=linux/amd64 jxxghp/moviepilot-v2:latest
+--platform=linux/arm64 jxxghp/moviepilot-v2:2.5.5-1
+--platform=linux/amd64 jxxghp/moviepilot-v2:2.5.5-1
 
 --platform=linux/arm64 stilleshan/frpc:0.58.1
 --platform=linux/amd64 stilleshan/frpc:0.58.1
