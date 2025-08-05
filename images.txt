@@ -12,26 +12,23 @@
 --platform=linux/arm64 vinlic/step-free-api:latest
 --platform=linux/amd64 vinlic/step-free-api:latest
 
---platform=linux/arm64 sil6864/accelerator:latest
-
 --platform=linux/arm64 6053537/portainer-ce:latest
 --platform=linux/amd64 6053537/portainer-ce:latest
 
---platform=linux/arm64 jxxghp/moviepilot-v2:2.5.5-1
---platform=linux/amd64 jxxghp/moviepilot-v2:2.5.5-1
+--platform=linux/arm64 jxxghp/moviepilot-v2:latest
+--platform=linux/amd64 jxxghp/moviepilot-v2:latest
 
---platform=linux/arm64 stilleshan/frpc:0.58.1
---platform=linux/amd64 stilleshan/frpc:0.58.1
+
 
 #无需更新镜像
 #--platform=linux/arm64/v8 nyanmisaka/jellyfin:250127-arm64
 #--platform=linux/amd64 nyanmisaka/jellyfin:250127-amd64
 
-#--platform=linux/arm64 sil6864/6864mail-trans:v0.2
-#--platform=linux/amd64 sil6864/6864mail-trans:v0.2
-
 #--platform=linux/arm64 louislam/uptime-kuma:2.0.0-beta-slim.3
 #--platform=linux/amd64 louislam/uptime-kuma:2.0.0-beta-slim.3
+
+#--platform=linux/arm64 stilleshan/frpc:0.58.1
+#--platform=linux/amd64 stilleshan/frpc:0.58.1
 
 
 
