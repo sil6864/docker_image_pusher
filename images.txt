@@ -6,8 +6,8 @@
 --platform=linux/arm64 linuxserver/transmission:latest
 --platform=linux/amd64 linuxserver/transmission:latest
 
---platform=linux/arm64 openlistteam/openlist:latest
---platform=linux/amd64 openlistteam/openlist:latest
+--platform=linux/arm64 openlistteam/openlist:latest-lite
+--platform=linux/amd64 openlistteam/openlist:latest-lite
 
 --platform=linux/arm64 vinlic/step-free-api:latest
 --platform=linux/amd64 vinlic/step-free-api:latest
