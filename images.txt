@@ -18,6 +18,9 @@
 --platform=linux/arm64 jxxghp/moviepilot-v2:latest
 --platform=linux/amd64 jxxghp/moviepilot-v2:latest
 
+--platform=linux/arm64 ghcr.io/moontechlab/lunatv:latest
+--platform=linux/amd64 ghcr.io/moontechlab/lunatv:latest
+
 
 
 #无需更新镜像
