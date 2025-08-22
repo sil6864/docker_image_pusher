@@ -3,14 +3,8 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
 #常用更新镜像
---platform=linux/arm64 linuxserver/transmission:latest
---platform=linux/amd64 linuxserver/transmission:latest
-
 --platform=linux/arm64 openlistteam/openlist:latest-lite
 --platform=linux/amd64 openlistteam/openlist:latest-lite
-
---platform=linux/arm64 vinlic/step-free-api:latest
---platform=linux/amd64 vinlic/step-free-api:latest
 
 --platform=linux/arm64 6053537/portainer-ce:latest
 --platform=linux/amd64 6053537/portainer-ce:latest
@@ -21,10 +15,21 @@
 --platform=linux/arm64 ghcr.io/moontechlab/lunatv:latest
 --platform=linux/amd64 ghcr.io/moontechlab/lunatv:latest
 
---platform=linux/arm64 dpanel/dpanel:lite
---platform=linux/amd64 dpanel/dpanel:lite
+
 
 #无需更新镜像
+#--platform=linux/arm64 dpanel/dpanel:lite
+#--platform=linux/amd64 dpanel/dpanel:lite
+
+#--platform=linux/arm64 vinlic/step-free-api:latest
+#--platform=linux/amd64 vinlic/step-free-api:latest
+
+#--platform=linux/arm64 apache/kvrocks:latest
+#--platform=linux/amd64 apache/kvrocks:latest
+
+#--platform=linux/arm64 linuxserver/transmission:latest
+#--platform=linux/amd64 linuxserver/transmission:latest
+
 #--platform=linux/arm64/v8 nyanmisaka/jellyfin:250127-arm64
 #--platform=linux/amd64 nyanmisaka/jellyfin:250127-amd64
 
