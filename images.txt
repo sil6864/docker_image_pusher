@@ -6,20 +6,18 @@
 --platform=linux/arm64 openlistteam/openlist:latest-lite
 --platform=linux/amd64 openlistteam/openlist:latest-lite
 
---platform=linux/arm64 nyanmisaka/jellyfin:latest-rockchip
-
---platform=linux/arm64 6053537/portainer-ce:latest
---platform=linux/amd64 6053537/portainer-ce:latest
 
 --platform=linux/arm64 jxxghp/moviepilot-v2:latest
 --platform=linux/amd64 jxxghp/moviepilot-v2:latest
 
---platform=linux/arm64 ghcr.io/moontechlab/lunatv:latest
---platform=linux/amd64 ghcr.io/moontechlab/lunatv:latest
+
 
 
 
 #无需更新镜像
+#--platform=linux/arm64 6053537/portainer-ce:latest
+#--platform=linux/amd64 6053537/portainer-ce:latest
+
 #--platform=linux/arm64 dpanel/dpanel:lite
 #--platform=linux/amd64 dpanel/dpanel:lite
 
@@ -48,10 +46,13 @@
 
 
 #暂存/无用镜像
+
+#--platform=linux/arm64 ghcr.io/moontechlab/lunatv:latest
+#--platform=linux/amd64 ghcr.io/moontechlab/lunatv:latest
+
 #--platform=linux/arm64/v8 youshandefeiyang/allinone:latest
 #--platform=linux/amd64 youshandefeiyang/allinone:latest
 #--platform=linux/arm/v7 youshandefeiyang/allinone:latest
-
 
 #--platform=linux/arm64 ui4freedom/uif:latest
 #--platform=linux/amd64 ui4freedom/uif:latest
