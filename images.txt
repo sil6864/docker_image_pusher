@@ -11,9 +11,6 @@
 --platform=linux/amd64 jxxghp/moviepilot-v2:latest
 
 
-
-
-
 #无需更新镜像
 #--platform=linux/arm64 6053537/portainer-ce:latest
 #--platform=linux/amd64 6053537/portainer-ce:latest
@@ -23,9 +20,6 @@
 
 #--platform=linux/arm64 vinlic/step-free-api:latest
 #--platform=linux/amd64 vinlic/step-free-api:latest
-
-#--platform=linux/arm64 apache/kvrocks:latest
-#--platform=linux/amd64 apache/kvrocks:latest
 
 #--platform=linux/arm64 linuxserver/transmission:latest
 #--platform=linux/amd64 linuxserver/transmission:latest
@@ -47,9 +41,6 @@
 
 #暂存/无用镜像
 
-#--platform=linux/arm64 ghcr.io/moontechlab/lunatv:latest
-#--platform=linux/amd64 ghcr.io/moontechlab/lunatv:latest
-
 #--platform=linux/arm64/v8 youshandefeiyang/allinone:latest
 #--platform=linux/amd64 youshandefeiyang/allinone:latest
 #--platform=linux/arm/v7 youshandefeiyang/allinone:latest
@@ -60,19 +51,12 @@
 
 #--platform=linux/arm/v7 stilleshan/frpc:0.58.1
 
-#--platform=linux/arm64 vinlic/qwen-free-api:latest
-#--platform=linux/amd64 vinlic/qwen-free-api:latest
-
 #--platform=linux/arm64 homeassistant/home-assistant:latest
 #--platform=linux/amd64 homeassistant/home-assistant:latest
 #--platform=linux/arm/v6 homeassistant/home-assistant:latest
 #--platform=linux/arm/v7 homeassistant/home-assistant:latest
 
 #dqzboy/mirror-hub:latest
-
-#--platform=linux/arm64 sil6864/easytier-wuhanr3s
-#--platform=linux/arm64 sil6864/easytier-jjcr3s
-#--platform=linux/amd64 sil6864/easytier-ubuntu
 
 #--platform=linux/arm64 qdtoday/qd:latest
 #--platform=linux/amd64 qdtoday/qd:latest
@@ -86,9 +70,6 @@
 #--platform=linux/amd64 portainer/agent:2.19.5
 #--platform=linux/arm/v7 portainer/agent:2.19.5
 
-#--platform=linux/arm64 yidadaa/chatgpt-next-web:latest
-#--platform=linux/amd64 yidadaa/chatgpt-next-web:latest
-
 #--platform=linux/arm64 snowdreamtech/frps:0.46.0
 #--platform=linux/amd64 snowdreamtech/frps:0.46.0
 #--platform=linux/arm/v7 snowdreamtech/frps:0.46.0
@@ -97,20 +78,9 @@
 #--platform=linux/amd64 dpanel/dpanel:latest
 #--platform=linux/arm/v7 dpanel/dpanel:latest
 
-#--platform=linux/arm64 jonnyan404/verysync:latest
-#--platform=linux/amd64 jonnyan404/verysync:latest
-#--platform=linux/arm/v7 jonnyan404/verysync:latest
-
-#--platform=linux/arm64 easychen/cookiecloud:latest
-#--platform=linux/amd64 easychen/cookiecloud:latest
-#--platform=linux/arm/v7 easychen/cookiecloud:latest
-
 #--platform=linux/arm64 dullage/flatnotes:latest
 #--platform=linux/amd64 dullage/flatnotes:latest
 
-#--platform=linux/arm/v7 ykxvk8yl5l/alist:latest
-#--platform=linux/arm64/v8 ykxvk8yl5l/alist:latest
-#--platform=linux/amd64 ykxvk8yl5l/alist:latest
 
 #--platform=linux/arm64 sil6864/zuqiu:latest
 #--platform=linux/amd64 sil6864/zuqiu:latest
