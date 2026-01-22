@@ -6,6 +6,8 @@
 --platform=linux/arm64 ghcr.io/decohererk/decotv:latest
 --platform=linux/amd64 ghcr.io/decohererk/decotv:latest
 
+--platform=linux/arm64 jxxghp/moviepilot-v2:latest
+--platform=linux/amd64 jxxghp/moviepilot-v2:latest
 
 #无需更新镜像
 #--platform=linux/arm64 dullage/flatnotes:latest
@@ -19,9 +21,6 @@
 
 #--platform=linux/arm64 youshandefeiyang/allinone:latest
 #--platform=linux/amd64 youshandefeiyang/allinone:latest
-
-#--platform=linux/arm64 jxxghp/moviepilot-v2:latest
-#--platform=linux/amd64 jxxghp/moviepilot-v2:latest
 
 #--platform=linux/arm64/v8 cloudflare/cloudflared:latest
 #--platform=linux/amd64 cloudflare/cloudflared:latest
