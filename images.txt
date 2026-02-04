@@ -9,7 +9,8 @@
 --platform=linux/arm64 jxxghp/moviepilot-v2:latest
 --platform=linux/amd64 jxxghp/moviepilot-v2:latest
 
-
+--platform=linux/arm64 bestrui/octopus:latest
+--platform=linux/amd64 bestrui/octopus:latest
 
 #无需更新镜像
 #--platform=linux/arm64 openlistteam/openlist:latest-lite
