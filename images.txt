@@ -12,8 +12,7 @@
 --platform=linux/arm64 bestrui/octopus:latest
 --platform=linux/amd64 bestrui/octopus:latest
 
---platform=linux/arm64 agentscope/copaw:latest
---platform=linux/amd64 agentscope/copaw:latest
+
 
 
 #--platform=linux/arm64 youshandefeiyang/allinone:latest
