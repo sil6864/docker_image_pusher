@@ -3,17 +3,18 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
 #常用更新镜像
---platform=linux/arm64 ghcr.io/decohererk/decotv:latest
---platform=linux/amd64 ghcr.io/decohererk/decotv:latest
-
-#--platform=linux/arm64 jxxghp/moviepilot-v2:latest
-#--platform=linux/amd64 jxxghp/moviepilot-v2:latest
-
 --platform=linux/arm64 bestrui/octopus:latest
 --platform=linux/amd64 bestrui/octopus:latest
 
+--platform=linux/arm64 ghcr.io/martialbe/one-api:latest
+--platform=linux/amd64 ghcr.io/martialbe/one-api:latest
 
 
+#--platform=linux/arm64 ghcr.io/decohererk/decotv:latest
+#--platform=linux/amd64 ghcr.io/decohererk/decotv:latest
+
+#--platform=linux/arm64 jxxghp/moviepilot-v2:latest
+#--platform=linux/amd64 jxxghp/moviepilot-v2:latest
 
 #--platform=linux/arm64 youshandefeiyang/allinone:latest
 #--platform=linux/amd64 youshandefeiyang/allinone:latest
