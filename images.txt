@@ -9,8 +9,10 @@
 --platform=linux/arm64 jxxghp/moviepilot-v2:latest
 --platform=linux/amd64 jxxghp/moviepilot-v2:latest
 
-#--platform=linux/arm64 ghcr.io/martialbe/one-api:latest
-#--platform=linux/amd64 ghcr.io/martialbe/one-api:latest
+--platform=linux/arm64 openlistteam/openlist:latest-lite
+--platform=linux/amd64 openlistteam/openlist:latest-lite
+
+#无需更新镜像
 
 #--platform=linux/arm64 ghcr.io/decohererk/decotv:latest
 #--platform=linux/amd64 ghcr.io/decohererk/decotv:latest
@@ -18,15 +20,10 @@
 #--platform=linux/arm64 youshandefeiyang/allinone:latest
 #--platform=linux/amd64 youshandefeiyang/allinone:latest
 
-#无需更新镜像
-#--platform=linux/arm64 openlistteam/openlist:latest-lite
-#--platform=linux/amd64 openlistteam/openlist:latest-lite
+
 
 #--platform=linux/arm64 dullage/flatnotes:latest
 #--platform=linux/amd64 dullage/flatnotes:latest
-
-#--platform=linux/arm64 ghcr.io/martialbe/one-api:latest
-#--platform=linux/amd64 ghcr.io/martialbe/one-api:latest
 
 #--platform=linux/arm64/v8 cloudflare/cloudflared:latest
 #--platform=linux/amd64 cloudflare/cloudflared:latest
@@ -37,49 +34,17 @@
 #--platform=linux/arm64 dpanel/dpanel:lite
 #--platform=linux/amd64 dpanel/dpanel:lite
 
-#--platform=linux/arm64 vinlic/step-free-api:latest
-#--platform=linux/amd64 vinlic/step-free-api:latest
 
 #--platform=linux/arm64 linuxserver/transmission:latest
 #--platform=linux/amd64 linuxserver/transmission:latest
 
-#--platform=linux/arm64/v8 nyanmisaka/jellyfin:250127-arm64
-#--platform=linux/amd64 nyanmisaka/jellyfin:250127-amd64
-
 #--platform=linux/arm64 louislam/uptime-kuma:2.0.0-beta-slim.3
 #--platform=linux/amd64 louislam/uptime-kuma:2.0.0-beta-slim.3
-
-#--platform=linux/arm64 stilleshan/frpc:0.58.1
-#--platform=linux/amd64 stilleshan/frpc:0.58.1
-
-
-
-
-#github镜像
-
-
-#暂存/无用镜像
 
 #--platform=linux/arm64/v8 youshandefeiyang/allinone:latest
 #--platform=linux/amd64 youshandefeiyang/allinone:latest
 #--platform=linux/arm/v7 youshandefeiyang/allinone:latest
 
-#--platform=linux/arm64 ui4freedom/uif:latest
-#--platform=linux/amd64 ui4freedom/uif:latest
-#--platform=linux/arm/v7 ui4freedom/uif:latest
-
-#--platform=linux/arm/v7 stilleshan/frpc:0.58.1
-
-#--platform=linux/arm64 homeassistant/home-assistant:latest
-#--platform=linux/amd64 homeassistant/home-assistant:latest
-#--platform=linux/arm/v6 homeassistant/home-assistant:latest
-#--platform=linux/arm/v7 homeassistant/home-assistant:latest
-
-#dqzboy/mirror-hub:latest
-
-#--platform=linux/arm64 qdtoday/qd:latest
-#--platform=linux/amd64 qdtoday/qd:latest
-#--platform=linux/arm/v7 qdtoday/qd:latest
 
 #--platform=linux/arm64 hslr/sun-panel:1.4.0
 #--platform=linux/amd64 hslr/sun-panel:1.4.0
@@ -87,11 +52,7 @@
 
 #--platform=linux/arm64 portainer/agent:2.19.5
 #--platform=linux/amd64 portainer/agent:2.19.5
-#--platform=linux/arm/v7 portainer/agent:2.19.5
 
-#--platform=linux/arm64 snowdreamtech/frps:0.46.0
-#--platform=linux/amd64 snowdreamtech/frps:0.46.0
-#--platform=linux/arm/v7 snowdreamtech/frps:0.46.0
 
 #--platform=linux/arm64 dpanel/dpanel:latest
 #--platform=linux/amd64 dpanel/dpanel:latest
@@ -100,9 +61,6 @@
 #--platform=linux/arm64 dullage/flatnotes:latest
 #--platform=linux/amd64 dullage/flatnotes:latest
 
-
-#--platform=linux/arm64 sil6864/zuqiu:latest
-#--platform=linux/amd64 sil6864/zuqiu:latest
 
 
 
