@@ -12,10 +12,11 @@
 --platform=linux/arm64 openlistteam/openlist:latest-lite
 --platform=linux/amd64 openlistteam/openlist:latest-lite
 
---platform=linux/arm64 eceasy/cli-proxy-api:latest
---platform=linux/amd64 eceasy/cli-proxy-api:latest
+
 
 #无需更新镜像
+#--platform=linux/arm64 eceasy/cli-proxy-api:latest
+#--platform=linux/amd64 eceasy/cli-proxy-api:latest
 
 #--platform=linux/arm64 ghcr.io/decohererk/decotv:latest
 #--platform=linux/amd64 ghcr.io/decohererk/decotv:latest
