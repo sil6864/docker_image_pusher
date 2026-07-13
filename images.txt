@@ -20,11 +20,6 @@
 #--platform=linux/arm64 ghcr.io/decohererk/decotv:latest
 #--platform=linux/amd64 ghcr.io/decohererk/decotv:latest
 
-#--platform=linux/arm64 youshandefeiyang/allinone:latest
-#--platform=linux/amd64 youshandefeiyang/allinone:latest
-
-
-
 #--platform=linux/arm64 dullage/flatnotes:latest
 #--platform=linux/amd64 dullage/flatnotes:latest
 
@@ -55,17 +50,6 @@
 
 #--platform=linux/arm64 portainer/agent:2.19.5
 #--platform=linux/amd64 portainer/agent:2.19.5
-
-
-#--platform=linux/arm64 dpanel/dpanel:latest
-#--platform=linux/amd64 dpanel/dpanel:latest
-#--platform=linux/arm/v7 dpanel/dpanel:latest
-
-#--platform=linux/arm64 dullage/flatnotes:latest
-#--platform=linux/amd64 dullage/flatnotes:latest
-
-
-
 
 
 
