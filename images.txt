@@ -9,6 +9,9 @@
 --platform=linux/arm64 jxxghp/moviepilot-v2:latest
 --platform=linux/amd64 jxxghp/moviepilot-v2:latest
 
+--platform=linux/arm64/v8 cloudflare/cloudflared:latest
+--platform=linux/amd64 cloudflare/cloudflared:latest
+
 
 #无需更新镜像
 #--platform=linux/arm64 eceasy/cli-proxy-api:latest
