@@ -6,8 +6,8 @@
 --platform=linux/arm64 bestrui/octopus:latest
 --platform=linux/amd64 bestrui/octopus:latest
 
---platform=linux/arm64 jxxghp/moviepilot-v2:latest
---platform=linux/amd64 jxxghp/moviepilot-v2:latest
+--platform=linux/arm64 jxxghp/moviepilot-v3:latest
+--platform=linux/amd64 jxxghp/moviepilot-v3:latest
 
 --platform=linux/arm64/v8 cloudflare/cloudflared:latest
 --platform=linux/amd64 cloudflare/cloudflared:latest
