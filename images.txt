@@ -3,6 +3,8 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
 #常用更新镜像
+--platform=linux/amd64 openlistteam/openlist:latest-lite
+
 --platform=linux/arm64 bestrui/octopus:latest
 --platform=linux/amd64 bestrui/octopus:latest
 
